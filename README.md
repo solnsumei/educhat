@@ -1,8 +1,11 @@
-# Quiz Bot Using Open AI
-Web based uiz bot using open ai
+# AI Quiz Bot
+Web based quiz bot for interview preparation
 
-# Built with
+### Built with
 - Python
 - Gradio
 - OpenAI
 - GROQ
+
+### License
+- MIT
